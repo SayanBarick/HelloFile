@@ -5,6 +5,6 @@ class HelloWorld2
 		System.out.println("Hello World");
 		System.out.println("Hello World2 added");
 		System.out.println("Hello World3 added");
-		System.out.println("Hello World5 added");
+		System.out.println("Hello World6 added");
 	}
 }
